@@ -1,0 +1,21 @@
+body {
+  background-color: lightgray;
+}
+
+main {
+  background-color: cornsilk;
+}
+
+li {
+  background-color: dodgerblue;
+}
+
+h2 {
+  color:aquamarine;
+  background-color: black;
+  text-align: center;
+}
+
+.pokemon-name {
+  color:darkmagenta;
+}
