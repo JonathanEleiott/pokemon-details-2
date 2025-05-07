@@ -77,3 +77,5 @@ const renderPokemonDetails = () => {
 }
 
 getAllPokemon();
+
+console.log('TESTING');
